@@ -1,4 +1,7 @@
 # Quran_Discoverer_Netbeans
+
+made in 2021
+
 A netbeans project that is a quran application which searches the quran for ayats according to input and also outputs ayats based on your mood.
 
 Nowadays in the digital world, people use the internet for everything. So we decided to make a Quran Discoverer that enables users who wish to learn or read the Quran with lot of different features.
