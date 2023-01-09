@@ -15,4 +15,11 @@ Translations are also available for each ayat in English and Urdu.
 
 ![image](https://user-images.githubusercontent.com/91872457/211266827-3659bd68-ced2-4ace-bfc8-483085119ba5.png)
 
+![image](https://user-images.githubusercontent.com/91872457/211266955-4d4cd6a8-da5f-4370-a62d-137e2a80f8bd.png)
+
+![image](https://user-images.githubusercontent.com/91872457/211267011-62579c0c-0e18-402f-81bd-c973b1795f8b.png)
+
+USMAN GHANI BAWANY
+MIRZA BILAL BAIG
+SYED MUNEEB UL HODA
 
